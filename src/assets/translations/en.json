@@ -1,0 +1,65 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "Who am I?",
+    "experience": "Experiences",
+    "education": "Education",
+    "skill": "My skills",
+    "contact": "Contact me"
+  },
+  "title": "Full stack developer / Backend developer",
+  "resume": {
+    "about": "French IT student, I am completing my computer sciences Master’s degree. I am looking for a 6 month internship in web development for February 2023 with the possibility to get a full-time job offer afterward.<br>I am hard-working and diligent in order to always improve myself and learn new concepts and skills.<br>In my opinion, gaining experience,overcoming obstacles and comparing multiple ideas are the keys to reach these goals.",
+    "experience": [
+      {
+        "title": "UUB Schwan | Berlin, Germany ",
+        "dates": "Fixed-term contract: February 2022 – December 2022<br>Internship: September 2021 – February 2022",
+        "content": "Full stack web developer for professional and environmental risk management software:<br>• New features development<br>• CI/CD & unit testing",
+        "tags": [
+          {
+            "name": "Symfony",
+            "icon": ""
+          },
+          {
+            "name": "PHP unit",
+            "icon": ""
+          },
+          {
+            "name": "Behat",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "PHENIX INFO | Lyon, France ",
+        "dates": "Fixed-term contract: July – August 2021<br>Internship: January – April 2021",
+        "content": "Full stack web developer on multiple projects:<br>• In house ERP<br>• Medical appointment website<br>• Procurement software",
+        "tags": [
+          {
+            "name": "fat-free",
+            "icon": ""
+          },
+          {
+            "name": "JS / PHP",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "VINCI Energies, Axians Private Mobile Networks | Lyon, France ",
+        "dates": "Internship: May – July 2020",
+        "content": "Implementation of a CI / CD architecture for the Research & Development team",
+        "tags": [
+          {
+            "name": "Jenkins",
+            "icon": ""
+          },
+          {
+            "name": "Atlassian",
+            "icon": ""
+          }
+        ]
+      }
+    ]
+  }
+}

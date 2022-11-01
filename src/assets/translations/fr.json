@@ -1,0 +1,66 @@
+{
+  "menu": {
+    "home": "Accueil",
+    "about": "Qui suis-je ?",
+    "experience": "Mes expériences",
+    "education": "Education",
+    "skill": "Mes compétences",
+    "contact": "Me contacter"
+  },
+  "title": "Full stack développeur / Backend développeur",
+  "resume": {
+    "about": "Étudiant français en informatique, je termine mon Master en informatique en juin 2023. Je recherche un stage de 6 mois en développement web débutant en février 2023 avec la possibilité d'obtenir une offre d'emploi à temps plein par la suite. Je serai également intéressé par la possibilité d'évoluer à l'étranger. <br> Je suis travailleur et assidu afin de toujours m'améliorer et d'apprendre de nouveaux concepts et compétences.<br>À mon avis, acquérir de l'expérience, surmonter les obstacles et comparer plusieurs idées sont les clés pour s'améliorer continuellement.",
+    "experience": [
+      {
+        "title": "UUB Schwan | Berlin, Allemagne ",
+        "dates": "Contrat de travail : Février 2022 – Décembre 2022<br>Stage : Septembre 2021 – Février 2022",
+        "content": "Full stack développeur, logiciel de gestion des risques professionnels et environnementaux :<br>• Framework Symfony & Framework Oro<br>• Tests unitaires et fonctionnels & CI/CD",
+        "tags": [
+          {
+            "name": "Symfony",
+            "icon": ""
+          },
+          {
+            "name": "PHP unit",
+            "icon": ""
+          },
+          {
+            "name": "Behat",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "PHENIX INFO | Lyon, France ",
+        "dates": "CDD : Juillet – Août 2021<br>Stage : Janvier – Avril 2021",
+        "content": "Full stack développeur, développement de logiciels et Saas pour des clients tel que Sandvik :<br>• ERP Saas Gesy<br>• Logiciel de rendez-vous médicaux<br>• Logiciel d’approvisionnement",
+        "tags": [
+          {
+            "name": "fat-free",
+            "icon": ""
+          },
+          {
+            "name": "JS / PHP",
+            "icon": ""
+          }
+        ]
+      },
+      {
+        "title": "VINCI Energies, Axians Private Mobile Networks | Lyon, France ",
+        "dates": "Stage : Mai – Juillet 2020",
+        "content": "Mise en place d'une architecture CI/CD pour le département R&D",
+        "tags": [
+          {
+            "name": "Jenkins",
+            "icon": ""
+          },
+          {
+            "name": "Atlassian",
+            "icon": ""
+          }
+        ]
+      }
+    ]
+
+  }
+}
